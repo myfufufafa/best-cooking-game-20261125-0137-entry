@@ -1,0 +1,1 @@
+{"description":"Ember & Thyme — a cozy kitchen rush. Entry for the make.fun bounty 'Make the best cooking game'.","engines":{"node":">=22.18.0"},"license":"MIT","name":"ember-and-thyme","private":true,"scripts":{"build":"node main.ts","serve":"node serve.ts"},"type":"module","version":"1.0.0"}
