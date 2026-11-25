@@ -1,4 +1,6 @@
-[![Bounty](https://img.shields.io/badge/bounty-make.fun-8a5cf6)](https://make.fun/c/best-cooking-game-20261125-0137) [![Prize $250](https://img.shields.io/badge/prize-%24250-22c55e)](https://make.fun/c/best-cooking-game-20261125-0137) [![Game](https://img.shields.io/badge/game-Ember%20%26%20Thyme-ffb347)](https://make.fun/c/best-cooking-game-20261125-0137)
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/myfufufafa/best-cooking-game-20261125-0137-entry/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/myfufufafa/best-cooking-game-20261125-0137-entry/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 
 # Ember & Thyme — a cozy kitchen rush
 
